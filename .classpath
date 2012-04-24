@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="webtend"/>
+	<classpathentry kind="src" path="xtend"/>
+	<classpathentry kind="src" path="src/java/main"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="lib" path="E:/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar" sourcepath="E:/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.xtend.XTEND_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/.m2/repository/org/reflections/reflections/0.9.6/reflections-0.9.6.jar" sourcepath="E:/.m2/repository/org/reflections/reflections/0.9.6/reflections-0.9.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/org/reflections/reflections/0.9.6/reflections-0.9.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar" sourcepath="E:/.m2/repository/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" sourcepath="E:/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/commons-io/commons-io/2.1/commons-io-2.1.jar" sourcepath="E:/.m2/repository/commons-io/commons-io/2.1/commons-io-2.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/commons-io/commons-io/2.1/commons-io-2.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/org/avaje/ebean/2.7.5/ebean-2.7.5.jar" sourcepath="E:/.m2/repository/org/avaje/ebean/2.7.5/ebean-2.7.5-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/org/avaje/ebean/2.7.5/ebean-2.7.5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar" sourcepath="E:/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar" sourcepath="E:/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/commons-codec/commons-codec/1.5/commons-codec-1.5.jar" sourcepath="E:/.m2/repository/commons-codec/commons-codec/1.5/commons-codec-1.5-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/commons-codec/commons-codec/1.5/commons-codec-1.5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/.m2/repository/postgresql/postgresql/9.1-901.jdbc4/postgresql-9.1-901.jdbc4.jar" sourcepath="E:/.m2/repository/postgresql/postgresql/9.1-901.jdbc4/postgresql-9.1-901.jdbc4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resourceE:/.m2/repository/postgresql/postgresql/9.1-901.jdbc4/postgresql-9.1-901.jdbc4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
